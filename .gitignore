@@ -1,0 +1,16 @@
+# --- C++ / Compilados ---
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+build/
+bin/
+obj/
+out/
+cmake-build-debug/
+
+# --- Visual Studio Code ---
+.vscode/
+*.code-workspace
